@@ -1,4 +1,4 @@
-var hhtp = require('http');
+var http = require('http');
 var mysql = require('mysql');
 var url = require('url');
 var querystring = require('querystring');
